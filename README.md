@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on machine-guided image interpretation
+- 🌱 I’m currently learning Flask
+
 <!--
 **miquelmassot/miquelmassot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
