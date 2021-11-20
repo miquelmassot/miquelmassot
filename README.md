@@ -16,6 +16,12 @@
 <img align="left" alt="miquelmassot's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=miquelmassot" />
 
 
+<br>
+
+<img align="left" alt="Meaningful commits" width="500" src="https://pbs.twimg.com/media/Egy4eiVUMAAKYSa?format=png&name=900x900" />
+
+
+
 
 
 [website]: https://www.miquelmassot.com
