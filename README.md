@@ -6,6 +6,7 @@
 ### Connect with me:
 
 [<img align="left" alt="miquelmassot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="miquelmassot | Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />][scholar]
 [<img align="left" alt="miquelmassot | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="miquelmassot | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="miquelmassot | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -28,3 +29,4 @@
 [twitter]: https://twitter.com/resisteix
 [instagram]: https://www.instagram.com/resisteix/
 [linkedin]: https://www.linkedin.com/in/miquelmassot/
+[scholar]: https://scholar.google.com/citations?user=0xBOUxUAAAAJ&hl=es
