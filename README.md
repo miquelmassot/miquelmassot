@@ -1,7 +1,7 @@
 ### Hi there, I'm Miquel Massot 👋 
 
-- 🔭 I’m currently working on machine-guided image interpretation for underwater robotics
-- 🌱 I’m currently learning Flask
+- 🔭 I code C++/python software for underwater robotics
+- 🌱 I’m currently learning dash and realtime web apps
 
 ### Connect with me:
 
@@ -19,14 +19,6 @@
 
 <br>
 
-<img align="left" alt="Meaningful commits" width="500" src="https://pbs.twimg.com/media/Egy4eiVUMAAKYSa?format=png&name=900x900" />
-
-
-
-
-
 [website]: https://www.miquelmassot.com
-[twitter]: https://twitter.com/resisteix
-[instagram]: https://www.instagram.com/resisteix/
 [linkedin]: https://www.linkedin.com/in/miquelmassot/
 [scholar]: https://scholar.google.com/citations?user=0xBOUxUAAAAJ&hl=es
